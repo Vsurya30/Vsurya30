@@ -11,11 +11,9 @@
 
 -   A passionate Web developer from India
 
-- 🔭 I’m currently Studying **B.E. Computer Science**
+- 🔭  **B.E. Computer Science Graduate**
 
-- 👨‍💻 All of my projects are available at [www.vsurya.in](www.vsurya.in)
-
-- 💬 Ask me about **Python , C, Java , MEAN stack , C++**
+- 💬 Ask me about **Python , C, Java, Web Development, JavaScript, React**
 
 - 📫 How to reach me **vsurya302003@gmail.com**
 
