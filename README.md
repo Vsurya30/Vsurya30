@@ -84,5 +84,4 @@
 	<img src = "https://github.com/Vsurya30/Vsurya30/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
      -->                                                                                                                 
-                                                                                                                      
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![Snake animation](https://raw.githubusercontent.com/Vsurya30/Vsurya30/output/github-contribution-grid-snake-dark.svg)
