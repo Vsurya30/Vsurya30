@@ -11,9 +11,9 @@
 
 -   A passionate Web developer from India
 
-- 🔭  **B.E. Computer Science Graduate**
+- 🔭  **B.E. Computer Science **
 
-- 💬 Ask me about **Python , C, Java, Web Development, JavaScript, React**
+- 💬 Ask me about **Python , C, Java, Web Development, JavaScript, React, typescript**
 
 - 📫 How to reach me **vsurya302003@gmail.com**
 
